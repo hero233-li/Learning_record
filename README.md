@@ -3,8 +3,6 @@
 🎯 **我的** **OKR**
 日更一文
 
-🧑🏻💻 **我的项目**
-https://github.com/hero233-li/Learning_record/blob/main/project.md
 ✅ **我的待办**
 https://github.com/hero233-li/Learning_record/blob/main/My%20to-do.md
 
@@ -46,9 +44,6 @@ https://github.com/hero233-li/Learning_record/blob/main/My%20to-do.md
 1. ##### 详细描述从输入URL到页面完全渲染的过程，包括网络请求、HTML解析、DOM树构建、CSSOM树构建、JS执行和渲染树构建。
 1. ##### 如何配置Webpack以允许更小的bundle大小?
 1. ##### 全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪
-
-[全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪](https://github.com/hero233-li/Learning_record/blob/main/aricle/面试题/思考：全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪/全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪.md)
-
 1. ##### 前端更新部署后，如何通知用户刷新
 1. ##### const res=obj[1][2][3]+4，实现一个对象，让结果为 10
 
